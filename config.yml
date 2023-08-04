@@ -1,0 +1,15 @@
+Token: "Insert your token here"
+Server_ID: "Insert your server ID here"
+Status:
+  Member:
+    Enabled: true
+    Channel_ID: "Insert your channel ID here"
+    Channel_Name: "Total Members: "
+  User:
+    Enabled: true
+    Channel_ID: "Insert your channel ID here"
+    Channel_Name: "Users: "
+  Bot:
+    Enabled: true
+    Channel_ID: "Insert your channel ID here"
+    Channel_Name: "Bots: "
